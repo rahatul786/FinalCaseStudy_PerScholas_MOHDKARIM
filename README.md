@@ -1,4 +1,4 @@
-# FinalCaseStudy_PerScholas_MOHDKARI
+# FinalCaseStudy_PerScholas_MOHDKARIM
 
 This is a Indoor Sports Complex Website that contains information about the institution, consumers reservation and pricing with availability. 
 
